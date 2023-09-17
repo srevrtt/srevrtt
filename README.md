@@ -1,5 +1,5 @@
 # About Me
-👋 Hello! My name is Srevrtt and I have a passion for game development. I am 14 years old and have been coding since I was 8. I am interested in creating game engines and GUI applications from scratch.
+👋 Hello! My name is Srevrtt and I have a passion for game development. I am 15 years old and have been coding since I was 8. I am interested in creating game engines and GUI applications from scratch.
 
 # Github Stats
 
