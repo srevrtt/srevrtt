@@ -1,5 +1,7 @@
 # About Me
-👋 Hello! My name is Srevrtt and I have a passion for game development. I am 15 years old and have been coding since I was 8. I am interested in creating game engines and GUI applications from scratch.
+Hello! My name is Srevrtt (pronounced "sir everett"), and I am passionate about mainly game development and UI design/desktop app development. I am 15 years old and have been coding since I was 8. I am interested in creating game engines and GUI applications from scratch.
+
+So yeah, that's it. I'm not going to put anything cringy aside from my Github stats to flex on other developers for how bad I am at this lol...
 
 # Github Stats
 
